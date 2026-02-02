@@ -1,7 +1,8 @@
 # Project-01
 
-# Your Name
+# Michelle Garcia
 
-# Your Github username
+# mimi910
 
 # List the things you added for points
+
